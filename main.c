@@ -60,7 +60,7 @@ int main() {
                 break;
             }
             default:
-                printf("Invalid paycode. Please try again.\n");
+                printf("Invalid pay code. Please try again.\n");
         }
     }
     return 0;
